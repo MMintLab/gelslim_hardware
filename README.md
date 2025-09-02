@@ -1,5 +1,13 @@
 # GelSlim 4.0 Hardware Files
 
+## README Contents
+
+- [3D Print Files for Sensor Body](#3d-print-files-for-sensor-body)
+- [Assembly Files for Sensor Mockup](#assembly-files-for-sensor-mockup)
+- [Gel Mold Files](#gel-mold-files)
+- [Laser Cutting Files](#laser-cutting-files)
+- [PCB Files](#pcb-files)
+
 ## 3D Print Files for Sensor Body
 
 ### Gripper Sensor Components
@@ -27,13 +35,28 @@ Coming soon! :)
 
 ## Assembly Files for Sensor Mockup
 
-
+- Mockup Parts
+  - [M2 Screw](https://github.com/MMintLab/gelslim_hardware/blob/master/assemblies/mockup_parts/91698A200_screw_mockup.SLDPRT)
+  - [M2 heat-set inserts](https://github.com/MMintLab/gelslim_hardware/blob/master/assemblies/mockup_parts/94180A307_heatset_mockup.SLDPRT)
+  - [Red LED](https://github.com/MMintLab/gelslim_hardware/blob/master/assemblies/mockup_parts/LR_T66F_20180227.SLDPRT)
+  - [Green LED](https://github.com/MMintLab/gelslim_hardware/blob/master/assemblies/mockup_parts/LT_T66G_20190620.SLDPRT)
+  - [Blue LED](https://github.com/MMintLab/gelslim_hardware/blob/master/assemblies/mockup_parts/LB_T64G_20190618.SLDPRT)
+  - [Red LED array](https://github.com/MMintLab/gelslim_hardware/blob/master/assemblies/mockup_parts/red_leds_mockup.SLDASM)
+  - [Green LED array](https://github.com/MMintLab/gelslim_hardware/blob/master/assemblies/mockup_parts/green_leds_mockup.SLDASM)
+  - [Blue LED array](https://github.com/MMintLab/gelslim_hardware/blob/master/assemblies/mockup_parts/blue_leds_mockup.SLDASM)
+  - [Flex cables](https://github.com/MMintLab/gelslim_hardware/blob/master/assemblies/mockup_parts/led_flex_cables_mockup.SLDPRT)
+  - [LED Harnesses](https://github.com/MMintLab/gelslim_hardware/blob/master/assemblies/mockup_parts/led_harnesses_mockup.SLDASM)
+  - [LED Driver](https://github.com/MMintLab/gelslim_hardware/blob/master/assemblies/mockup_parts/LED_driver_mockup.SLDPRT)
+  - [Camera](https://github.com/MMintLab/gelslim_hardware/blob/master/assemblies/mockup_parts/camera_mockup.SLDPRT)
+  - [Gel pad](https://github.com/MMintLab/gelslim_hardware/blob/master/assemblies/mockup_parts/gel_pad_3mm_mockup.SLDPRT)
+- [Panda Hand Gripper Sensor](https://github.com/MMintLab/gelslim_hardware/blob/master/assemblies/panda_hand_gripper_sensor.SLDASM)
+- [WSG50 Gripper Sensor](https://github.com/MMintLab/gelslim_hardware/blob/master/assemblies/wsg50_gripper_sensor.SLDASM)
 
 ## Gel Mold Files
 
 
 
-## Laser Cutting Files for Lens
+## Laser Cutting Files
 
 
 
