@@ -1,1 +1,24 @@
-# CONTENTS
+# 3D Print Files for Sensor Body
+
+## Gripper Sensor Components
+
+- Core Components
+  - Back Cover ([Solidworks](https://github.com/MMintLab/gelslim_hardware/blob/master/3d_printing/gripper/back_cover.SLDPRT) | [Onshape](https://cad.onshape.com/documents/9cd0c9d96eae9d81df93bbd0/w/82182e854e3d66c0c3933ab9/e/aaee8dda86afadd123467490?configuration=SWCONFIG%3DDefault&renderMode=0&uiState=68b8664cfd193a3f0aa5759b) | [STL](https://github.com/MMintLab/gelslim_hardware/blob/master/3d_printing/default_stls/back_cover.STL)) ![Part: back_cover](https://github.com/MMintLab/gelslim_hardware/blob/master/images/back_cover.PNG)
+  - Electronics Plate ([Solidworks](https://github.com/MMintLab/gelslim_hardware/blob/master/3d_printing/gripper/electronics_plate.SLDPRT) | [Onshape](https://cad.onshape.com/documents/9cd0c9d96eae9d81df93bbd0/w/82182e854e3d66c0c3933ab9/e/60f9c8e3e81423b3903a8c74?configuration=SWCONFIG%3DDefault&renderMode=0&uiState=68b86687fd193a3f0aa575bb)) ![Part: electronics_plate](https://github.com/MMintLab/gelslim_hardware/blob/master/images/electronics_plate.PNG)
+  - Lens Plate ([Solidworks](https://github.com/MMintLab/gelslim_hardware/blob/master/3d_printing/gripper/lens_plate.SLDPRT) | [Onshape](https://cad.onshape.com/documents/9cd0c9d96eae9d81df93bbd0/w/82182e854e3d66c0c3933ab9/e/1b48639a53db79dc15dd946c?configuration=SWCONFIG%3DDefault&renderMode=0&uiState=68b866a0fd193a3f0aa575d3)) ![Part: lens_plate](https://github.com/MMintLab/gelslim_hardware/blob/master/images/lens_plate.PNG)
+- Gripper Adapter
+  - Panda Hand
+    - Sensor Adapter ([Solidworks](https://github.com/MMintLab/gelslim_hardware/blob/master/3d_printing/gripper/panda_hand_sensor_adapter.SLDPRT) | [Onshape](https://cad.onshape.com/documents/40f465dd425ba3313d79f444/w/0815f2af837a8d59669dc060/e/79511ede950359e46da4360c?configuration=SWCONFIG%3DDefault&renderMode=0&uiState=68b8654f17ddb7b99cf2f9d1)) ![Part: panda_hand_sensor_adapter](https://github.com/MMintLab/gelslim_hardware/blob/master/images/panda_hand_sensor_adapter.PNG)
+    - Sensor Body Assembly ([Solidworks](https://github.com/MMintLab/gelslim_hardware/blob/master/3d_printing/gripper/panda_hand_gripper_sensor_body.SLDASM) | [Onshape](https://cad.onshape.com/documents/40f465dd425ba3313d79f444/w/0815f2af837a8d59669dc060/e/238904d6415116d2d031e3d0?renderMode=0&uiState=68b8656417ddb7b99cf2f9e0)) ![Assembly: panda_hand_gripper_sensor_body](https://github.com/MMintLab/gelslim_hardware/blob/master/images/panda_hand_gripper_sensor_body.PNG)
+    - Single-Part Sensor Body ([Solidworks](https://github.com/MMintLab/gelslim_hardware/blob/master/3d_printing/gripper/panda_hand_gripper_sensor_body_combined.SLDASM) | [Onshape](https://cad.onshape.com/documents/40f465dd425ba3313d79f444/w/0815f2af837a8d59669dc060/e/82ae6c68d4ae8ceb7c8e66e1?renderMode=0&uiState=68b8659217ddb7b99cf2fa36) | [STL](https://github.com/MMintLab/gelslim_hardware/blob/master/3d_printing/default_stls/panda_hand_gripper_sensor_body_combined.STL)) ![Part: panda_hand_gripper_sensor_body_combined](https://github.com/MMintLab/gelslim_hardware/blob/master/images/panda_hand_gripper_sensor_body_combined.PNG)
+  - WSG50
+    - Sensor Adapter ([Solidworks](https://github.com/MMintLab/gelslim_hardware/blob/master/3d_printing/gripper/wsg50_sensor_adapter.SLDPRT) | [Onshape](https://cad.onshape.com/documents/d8e39b902ea6a94d8341203d/w/60d4290846c88a5d621d368a/e/02991b17340eb0b0a1fc03a0?configuration=SWCONFIG%3DDefault&renderMode=0&uiState=68b86334ee669b312fb18a15)) ![Part: wsg50_sensor_adapter](https://github.com/MMintLab/gelslim_hardware/blob/master/images/wsg50_sensor_adapter.PNG)
+    - Sensor Body Assembly ([Solidworks](https://github.com/MMintLab/gelslim_hardware/blob/master/3d_printing/gripper/wsg50_gripper_sensor_body.SLDASM) | [Onshape](https://cad.onshape.com/documents/d8e39b902ea6a94d8341203d/w/60d4290846c88a5d621d368a/e/13a489cc137917fc9be5f64e?renderMode=0&uiState=68b86306ee669b312fb189db)) ![Assembly: wsg50_gripper_sensor_body](https://github.com/MMintLab/gelslim_hardware/blob/master/images/wsg50_gripper_sensor_body.PNG)
+    - Single-Part Sensor Body ([Solidworks](https://github.com/MMintLab/gelslim_hardware/blob/master/3d_printing/gripper/wsg50_gripper_sensor_body_combined.SLDASM) | [Onshape](https://cad.onshape.com/documents/d8e39b902ea6a94d8341203d/w/60d4290846c88a5d621d368a/e/fed9e58be2774c6cb77fc6f0?renderMode=0&uiState=68b86329ee669b312fb18a08) | [STL](https://github.com/MMintLab/gelslim_hardware/blob/master/3d_printing/default_stls/wsg50_gripper_sensor_body_combined.STL)) ![Part: wsg50_gripper_sensor_body_combined](https://github.com/MMintLab/gelslim_hardware/blob/master/images/wsg50_gripper_sensor_body_combined.PNG)
+
+## Handheld Sensor Components
+
+Coming soon! :) 
+- Back Cover ([Solidworks]())
+- Electronics Plate ([Solidworks]())
+- Lens Plate ([Solidworks]())
