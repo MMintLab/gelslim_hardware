@@ -1,5 +1,7 @@
 # GelSlim 4.0 Hardware Files
 
+**Note:** If clicking an Onshape link results in a `403 Forbidden` error, try copying the link directly and pasting it into a new tab. All of the Onshape documents linked here are public with link sharing enabled. You should not need an Onshape account to view them. 
+
 ## README Contents
 
 - [3D Print Files for Sensor Body](#3d-print-files-for-sensor-body)
