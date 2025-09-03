@@ -35,7 +35,7 @@ Coming soon! :)
 
 ## Assembly Files for Sensor Mockup
 
-- Mockup Parts
+- Mockup Parts ([Onshape](https://cad.onshape.com/documents/609eb582cfb18108120b0f58/w/a54fcdc03d74eabd79036627/e/aeab5c6bb4fe80c5382a35ef?renderMode=0&uiState=68b8242447dd173e7c9bfc9f))
   - M2 Screw ([Solidworks](https://github.com/MMintLab/gelslim_hardware/blob/master/assemblies/mockup_parts/91698A200_screw_mockup.SLDPRT)) ![Part: 91698A200_screw_mockup](https://github.com/MMintLab/gelslim_hardware/blob/master/images/91698A200_screw_mockup.PNG)
   - M2 heat-set insert ([Solidworks](https://github.com/MMintLab/gelslim_hardware/blob/master/assemblies/mockup_parts/94180A307_heatset_mockup.SLDPRT)) ![Part: 94180A307_heatset_mockup](https://github.com/MMintLab/gelslim_hardware/blob/master/images/94180A307_heatset_mockup.PNG)
   - Red LED ([Solidworks](https://github.com/MMintLab/gelslim_hardware/blob/master/assemblies/mockup_parts/LR_T66F_20180227.SLDPRT)) ![Part: LR_T66F_20180227](https://github.com/MMintLab/gelslim_hardware/blob/master/images/LR_T66F_20180227.PNG)
