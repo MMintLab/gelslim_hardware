@@ -67,3 +67,8 @@ Coming soon! :)
 
 ## PCB Files
 
+- LED Harness Straight ([.zip](https://github.com/MMintLab/gelslim_hardware/blob/master/pcb_files/led_harness_straight.zip))
+- LED Harness Turn ([.zip](https://github.com/MMintLab/gelslim_hardware/blob/master/pcb_files/led_harness_turn.zip))
+- LED Driver ([.zip](https://github.com/MMintLab/gelslim_hardware/blob/master/pcb_files/led_driver.zip))
+- LED Driver Stencil ([Gerber](https://github.com/MMintLab/gelslim_hardware/blob/master/pcb_files/LED_driver_stencil.gbr))
+- LED Harness Stencil ([Gerber](https://github.com/MMintLab/gelslim_hardware/blob/master/pcb_files/led_harness_turn.zip))
